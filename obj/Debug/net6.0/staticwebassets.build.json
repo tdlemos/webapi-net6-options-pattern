@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ey6CAgUAgzmyJ4jqM+0njd5QPL1AFTSwuRZdZicBryE=",
+  "Source": "webapi-net6-options-pattern",
+  "BasePath": "_content/webapi-net6-options-pattern",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
